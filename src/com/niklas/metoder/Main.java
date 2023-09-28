@@ -13,7 +13,7 @@ public class Main {
 
     }
 
-    public static void addition(int x, int y) {
+    public static int addition(int x, int y) {
 
         return x+ y;
 
